@@ -47,7 +47,7 @@ This project is deployed using Vercel.
 
 ## App Preview
 
-![Home Page](home.jpg)
+![Home Page](home.JPG)
 
 
 
